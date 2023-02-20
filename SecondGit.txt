@@ -1,4 +1,8 @@
 welcome to second file to see changes.
 this is the second line added
+<<<<<<< Updated upstream
 line is added to check stash
 line is added to check for config
+=======
+again a line is added to check git diff
+>>>>>>> Stashed changes
