@@ -3,3 +3,4 @@ this is the second line added
 line is added to check stash
 line is added to check for config
 line added to check for branch
+line added for merge
